@@ -1,0 +1,6 @@
+{
+  "name": "AI Assistant",
+  "description": "تطبيق مساعد الذكاء الاصطناعي الذكي والمتقدم مع دعم المرفقات، الصور، البث المباشر للإجابات، وحفظ المحادثات محلياً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

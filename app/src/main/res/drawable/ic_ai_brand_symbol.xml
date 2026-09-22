@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Central Outer Glow Ring / Capsule -->
+    <path
+        android:pathData="M54,20 C69,20 81,32 81,47 C81,56.5 76,64.8 68.6,69.5 L71,83 L58.4,75.8 C57,76 55.5,76 54,76 C39,76 27,64 27,47 C27,32 39,20 54,20 Z"
+        android:strokeAlpha="0.25"
+        android:strokeWidth="1.5">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="27"
+                android:startY="20"
+                android:endX="81"
+                android:endY="83"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#7C5CFF" />
+                <item android:offset="1.0" android:color="#4DA3FF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Main Abstract AI Geometric Nexus (Interlocking facets) -->
+    <path
+        android:pathData="M54,26 C66.5,26 76,35.5 76,48 C76,56 71.8,63 65.5,67 L67.5,78 L57.8,72.2 C56.6,72.4 55.3,72.5 54,72.5 C41.5,72.5 32,61.5 32,48 C32,35.5 41.5,26 54,26 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="32"
+                android:startY="26"
+                android:endX="76"
+                android:endY="78"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#7C5CFF" />
+                <item android:offset="0.5" android:color="#6366F1" />
+                <item android:offset="1.0" android:color="#4DA3FF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Core Geometric Neural Spark / Diamond Accent -->
+    <path
+        android:pathData="M54,36 L58,45 L67,49 L58,53 L54,62 L50,53 L41,49 L50,45 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Auxiliary Satellite Node -->
+    <path
+        android:pathData="M68,36 C69.7,36 71,37.3 71,39 C71,40.7 69.7,42 68,42 C66.3,42 65,40.7 65,39 C65,37.3 66.3,36 68,36 Z"
+        android:fillColor="#A78BFA" />
+
+</vector>
